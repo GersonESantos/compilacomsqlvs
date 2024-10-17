@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <mysql.h>
+#include <C:\conectorC\include\mysql.h>
 
 
 int main() {
